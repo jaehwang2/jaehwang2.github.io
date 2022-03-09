@@ -1,7 +1,7 @@
-title: Long Haul
+title: Joey
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://jaehwang2.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -18,8 +18,8 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+#  - title: Contact
+#    url: /contact
 
 social:
   github: brianmaierjr
@@ -31,4 +31,4 @@ social:
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: jaehwang2-github-io
